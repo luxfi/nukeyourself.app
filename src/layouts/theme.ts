@@ -40,7 +40,7 @@ export const theme = {
     black: 900,
   },
   colors: {
-    primary: "#008000",
+    primary: "rgb(0, 255, 4)",
     secondary: "#0F0F0F",
     tertiary: "#3F5FBF",
     dark: "#252628",
