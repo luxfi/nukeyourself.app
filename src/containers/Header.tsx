@@ -55,7 +55,7 @@ const Header: React.FC<Props> = () => {
           <Col>
             <Logo>
               <img src="images/luxLogo.png" width={70} alt="" />
-              <span> lasereyes</span>
+              <span> nucleareyes</span>
             </Logo>
           </Col>
 
